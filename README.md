@@ -40,8 +40,8 @@ Hỗ trợ chạy trực tiếp trên **Windows & Linux** — *không cần cài
 
 ### 📖 How to use / *Hướng dẫn sử dụng*
 
-Detailed instructions are available in **[User Guide](docs/user_guide.pdf)**  
-*Hướng dẫn sử dụng chi tiết có trong **[User Guide](docs/user_guide.pdf)***
+Detailed instructions are available in **[User Guide](docs/user_guide.md)**  
+*Hướng dẫn sử dụng chi tiết có trong **[User Guide](docs/user_guide.md)***
 
 ### 🔑 License & Purchase / *License & Mua bản Full*
 
