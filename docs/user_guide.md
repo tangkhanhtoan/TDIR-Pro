@@ -7,23 +7,22 @@ Updated: March 2026
 ## 1. ⚙️ Installation / Cài đặt
 
 ## 🪟 Windows
-*Tải file TDIR-Pro-4.6-Windows.exe*  
-*Nhấp đúp để chạy (không cần cài Python)*
-
-**Windows:**  
 *Download TDIR-Pro-4.6-Windows.exe*  
 *Double-click to run (No Python required)*
 
-## 🐧 Linux (Ubuntu / Debian)
-*Tải file TDIR-Pro-4.6-Linux*  
-*Mở Terminal tại thư mục chứa file và chạy:*
+**Windows:**  
+*Tải file TDIR-Pro-4.6-Windows.exe*  
+*Nhấp đúp để chạy (không cần cài Python)*
 
+## 🐧 Linux (Ubuntu / Debian)
+*Download TDIR-Pro-4.6-Linux*  
+*Open Terminal in the download folder and run:*  
 *chmod +x TDIR-Pro-4.6-Linux*  
 *./TDIR-Pro-4.6-Linux*
 
 **Linux (Ubuntu/Debian):**  
-*Download TDIR-Pro-4.6-Linux*  
-*Open Terminal in the download folder and run:*  
+*Tải file TDIR-Pro-4.6-Linux*  
+*Mở Terminal tại thư mục chứa file và chạy:*
 *chmod +x TDIR-Pro-4.6-Linux*  
 *./TDIR-Pro-4.6-Linux*
 
