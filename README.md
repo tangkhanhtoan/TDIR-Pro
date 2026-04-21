@@ -33,8 +33,8 @@ Hỗ trợ chạy trực tiếp trên **Windows & Linux** — *không cần cài
 
 **Latest version 4.6** (March 2026)
 
-- **Windows**: [TDIR-Pro-4.6-Windows.exe](releases/TDIR-Pro-4.6-Windows.exe)  
-- **Linux (Ubuntu)**: [TDIR-Pro-4.6-Linux](releases/TDIR-Pro-4.6-Linux)  
+- **Windows**: [TDIR-Pro-4.6-Windows.exe]  
+- **Linux (Ubuntu)**: [TDIR-Pro-4.6-Linux]
 
 **All releases** → [Releases](releases/)
 
