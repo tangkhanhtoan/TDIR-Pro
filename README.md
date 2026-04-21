@@ -36,7 +36,7 @@ Hỗ trợ chạy trực tiếp trên **Windows & Linux** — *không cần cài
 - **Windows**: [TDIR-Pro-4.6-Windows.exe]  
 - **Linux (Ubuntu)**: [TDIR-Pro-4.6-Linux]
 
-**All releases** → [Releases](releases/)
+**All releases** → [Releases](https://github.com/tangkhanhtoan/TDIR-Pro/releases)
 
 ### 📖 How to use / *Hướng dẫn sử dụng*
 
